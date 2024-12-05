@@ -1,2 +1,3 @@
 payload:
-  - PROCESS-NAME,follow
+  - PROCESS-NAME,Follow
+  - PROCESS-NAME,Follow Helper
