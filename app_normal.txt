@@ -1,3 +1,5 @@
 payload:
   - PROCESS-NAME,aces
+  - PROCESS-NAME,aces.exe
   - PROCESS-NAME,nezha-agent
+  - PROCESS-NAME,nezha-agent.exe
