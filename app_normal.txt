@@ -1,2 +1,3 @@
 payload:
   - PROCESS-NAME,aces
+  - PROCESS-NAME,nezha-agent
