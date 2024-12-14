@@ -3,4 +3,4 @@ payload:
   - PROCESS-NAME,Follow.exe
   - PROCESS-NAME,Follow Helper
   - PROCESS-NAME,Follow Helper.exe
-  - PROCESS_NAME,ChatGPT
+  - PROCESS-NAME,ChatGPT
