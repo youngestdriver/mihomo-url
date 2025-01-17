@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,aces.exe
   - PROCESS-NAME,nezha-agent
   - PROCESS-NAME,nezha-agent.exe
+  - DOMAIN-SUFFIX,papercrane.top
