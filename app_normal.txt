@@ -3,4 +3,6 @@ payload:
   - PROCESS-NAME,aces.exe
   - PROCESS-NAME,nezha-agent
   - PROCESS-NAME,nezha-agent.exe
+  - PROCESS-NAME,tailscaled
+  - PROCESS-NAME,tailscaled.exe
   - DOMAIN-SUFFIX,papercrane.top
