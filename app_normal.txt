@@ -8,3 +8,4 @@ payload:
   - PROCESS-NAME,tailscaled
   - PROCESS-NAME,tailscaled.exe
   - DOMAIN-SUFFIX,papercrane.top
+  - DOMAIN-SUFFIX,bing.com
