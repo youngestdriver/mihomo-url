@@ -1,2 +1,4 @@
 payload:
   - PROCESS-NAME,ChatGPT
+  - PROCESS-NAME,Code Helper
+  - PROCESS-NAME,Cursor Helper
