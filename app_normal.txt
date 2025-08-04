@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,qbittorrent.exe
   - PROCESS-NAME,aces
   - PROCESS-NAME,aces.exe
   - PROCESS-NAME,nezha-agent
