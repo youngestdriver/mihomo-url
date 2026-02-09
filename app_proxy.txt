@@ -4,4 +4,3 @@ payload:
   - PROCESS-NAME,Cursor Helper
   - PROCESS-NAME,ChatGPT
   - DOMAIN,docker.papercrane.top
-  - DOMAIN,nz.hk.papercrane.top
