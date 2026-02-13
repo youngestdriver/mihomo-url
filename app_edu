@@ -1,0 +1,7 @@
+payload:
+  - IP-CIDR,10.93.9.0/24
+  - IP-CIDR,10.249.254.0/24
+  - IP-CIDR,202.119.254.0/24
+  - DOMAIN-SUFFIX,pve.papercrane.top
+  - DOMAIN-SUFFIX,njtech.papercrane.top
+  - DOMAIN-SUFFIX,njtech.qzh.su
