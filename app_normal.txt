@@ -1,6 +1,6 @@
 payload:
-  - IP-CIDR,192.168.0.0/16,DIRECT
-  - IP-CIDR,10.50.255.11/32,DIRECT
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,10.50.255.11/32
   - PROCESS-NAME,qbittorrent.exe
   - PROCESS-NAME,aces
   - PROCESS-NAME,aces.exe
