@@ -1,0 +1,10 @@
+payload:
+    - DOMAIN-SUFFIX,msftconnecttest.com
+    - DOMAIN-SUFFIX,msftncsi.com
+    - DOMAIN-SUFFIX,time.*.com
+    - DOMAIN-SUFFIX,market.xiaomi.com
+    - DOMAIN-SUFFIX,njtech.papercrane.top
+    - DOMAIN-SUFFIX,njtech.qzh.su
+    - DOMAIN-SUFFIX,pve.papercrane.top
+    - DOMAIN-SUFFIX,fnos.qzh.su
+    - DOMAIN-SUFFIX,home.papercrane.top
