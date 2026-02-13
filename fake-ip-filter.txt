@@ -1,7 +1,7 @@
 payload:
     - DOMAIN-SUFFIX,msftconnecttest.com
     - DOMAIN-SUFFIX,msftncsi.com
-    - DOMAIN-SUFFIX,time.*.com
+    - DOMAIN-SUFFIX,time.windows.com
     - DOMAIN-SUFFIX,market.xiaomi.com
     - DOMAIN-SUFFIX,njtech.papercrane.top
     - DOMAIN-SUFFIX,njtech.qzh.su
