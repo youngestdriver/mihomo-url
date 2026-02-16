@@ -1,5 +1,2 @@
 payload:
   - IP-CIDR,192.168.40.0/24
-  - DOMAIN-SUFFIX,home.papercrane.top
-  - DOMAIN_SUFFIX,fnos.qzh.su
-  - DOMAIN_SUFFIX,home.qzh.su
