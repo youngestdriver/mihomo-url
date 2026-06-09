@@ -4,7 +4,7 @@ payload:
   - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,market.xiaomi.com
   - DOMAIN-SUFFIX,njtech.papercrane.top
-  - DOMAIN-SUFFIX,njtech.qzh.su
+  - DOMAIN-SUFFIX,qzh.su
   - DOMAIN-SUFFIX,pve.papercrane.top
   - DOMAIN-SUFFIX,fnos.qzh.su
   - DOMAIN-SUFFIX,home.papercrane.top
