@@ -6,4 +6,4 @@ payload:
   - DOMAIN-SUFFIX,pve.papercrane.top
   - DOMAIN-SUFFIX,njtech.papercrane.top
   - DOMAIN-SUFFIX,njtech.qzh.su
-  - DOMAIN_SUFFIX,njtech.edu.cn
+  - DOMAIN-SUFFIX,njtech.edu.cn
