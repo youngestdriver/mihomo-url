@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,qzh.su
+  - DOMAIN-SUFFIX,papercrane.top

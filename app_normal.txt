@@ -13,3 +13,9 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,fnos.qzh.su
   - DOMAIN-SUFFIX,mynetname.net
+  - IP-CIDR,144.34.239.192/32,no-resolve
+  - IP-CIDR6,2607:8700:5500:6b82::2/128,no-resolve
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN,clientservices.googleapis.com
+  - DOMAIN,update.googleapis.com
+  - DOMAIN,fonts.googleapis.com

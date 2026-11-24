@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,Code Helper
   - PROCESS-NAME,Cursor Helper
   - DOMAIN,docker.papercrane.top
+  - DOMAIN,proxy.hongx.sbs
