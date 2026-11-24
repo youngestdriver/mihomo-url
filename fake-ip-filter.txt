@@ -2,13 +2,15 @@ payload:
   - DOMAIN-SUFFIX,fnos.qzh.su
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
-  - DOMAIN-SUFFIX,time.windows.com
   - DOMAIN-SUFFIX,market.xiaomi.com
   - DOMAIN-SUFFIX,njtech.papercrane.top
-  - DOMAIN-SUFFIX,qzh.su
-  - DOMAIN-SUFFIX,pve.papercrane.top
-  - DOMAIN-SUFFIX,fnos.qzh.su
+  - DOMAIN-SUFFIX,njtech.qzh.su
+  - DOMAIN-SUFFIX,hk.qzh.su
+  - DOMAIN-SUFFIX,hk.papercrane.top
+  - DOMAIN-SUFFIX,us.papercrane.top
+  - DOMAIN-SUFFIX,home.qzh.su
   - DOMAIN-SUFFIX,home.papercrane.top
+  - DOMAIN-SUFFIX,mynetname.net
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,ookla.com
   - DOMAIN-SUFFIX,speedtestcustom.com
@@ -68,11 +70,6 @@ payload:
   - DOMAIN-WILDCARD,*.music.migu.cn
   - DOMAIN,music.migu.cn
 
-  - DOMAIN-WILDCARD,*.msftconnecttest.com
-  - DOMAIN-WILDCARD,*.msftncsi.com
-  - DOMAIN,msftconnecttest.com
-  - DOMAIN,msftncsi.com
-
   - DOMAIN,localhost.ptlogin2.qq.com
   - DOMAIN,localhost.sec.qq.com
 
@@ -89,7 +86,6 @@ payload:
   - DOMAIN-WILDCARD,*.finalfantasyxiv.com
   - DOMAIN-WILDCARD,*.ffxiv.com
 
-  - DOMAIN,proxy.golang.org
   - DOMAIN-WILDCARD,stun.*.*
   - DOMAIN-WILDCARD,stun.*.*.*
   - DOMAIN-WILDCARD,*.stun.*.*
@@ -106,7 +102,5 @@ payload:
   - DOMAIN,swdownload.apple.com
   - DOMAIN,swcdn.apple.com
   - DOMAIN,swdist.apple.com
-  - DOMAIN,lens.l.google.com
   - DOMAIN,stun.l.google.com
-  - DOMAIN-SUFFIX,nflxvideo.net
   - DOMAIN-WILDCARD,*.mcdn.bilivideo.cn
