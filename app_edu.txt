@@ -11,3 +11,14 @@ payload:
   - IP-CIDR,10.100.0.0/24,no-resolve
   - IP-CIDR,172.16.0.0/24,no-resolve
   - IP-CIDR,10.3.77.21/32,no-resolve
+  - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,tju.pt
+  - DOMAIN-SUFFIX,njtupt.top
+  - DOMAIN-SUFFIX,bt.neu6.edu.cn
+  - DOMAIN-SUFFIX,nanyangpt.com
+  - DOMAIN-SUFFIX,pt.sjtu.edu.cn
+  - DOMAIN-SUFFIX,byr.pt
+  - DOMAIN-SUFFIX,public.ecustpt.eu.org
+  - DOMAIN-SUFFIX,ecust.pp.ua
+  - DOMAIN-SUFFIX,hudbt.hust.edu.cn
+  - DOMAIN-SUFFIX,pt.zhixing.bjtu.edu.cn

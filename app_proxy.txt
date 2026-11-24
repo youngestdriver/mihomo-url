@@ -4,3 +4,16 @@ payload:
   - PROCESS-NAME,Cursor Helper
   - DOMAIN,docker.papercrane.top
   - DOMAIN,proxy.hongx.sbs
+  - DOMAIN-SUFFIX,azusa.wiki
+  - DOMAIN-SUFFIX,fsm.name
+  - DOMAIN-SUFFIX,kamept.com
+  - DOMAIN-SUFFIX,www.nicept.net
+  - DOMAIN-SUFFIX,rousi.zip
+  - DOMAIN-SUFFIX,www.icc2022.com
+  - DOMAIN-SUFFIX,share.ilolicon.com
+  - DOMAIN-SUFFIX,www.gamegamept.com
+  - DOMAIN-SUFFIX,monikadesign.uk
+  - DOMAIN-SUFFIX,dajiao.cyou
+  - DOMAIN-SUFFIX,blutopia.cc
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.io
