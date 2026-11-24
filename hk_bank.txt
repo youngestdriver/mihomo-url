@@ -3,13 +3,19 @@ payload:
   - DOMAIN-SUFFIX,winglungbank.com
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hsbc.com
+  - DOMAIN-SUFFIX,vv1865.com
+  - DOMAIN,hsbc.edge.sdk.awswaf.com
   - DOMAIN-SUFFIX,elebank.com
   - DOMAIN-SUFFIX,airstarbank.com
   - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,hangseng.com
   - DOMAIN-SUFFIX,sc.com
+  - DOMAIN-SUFFIX,sc.com.hk
   - DOMAIN-SUFFIX,za.bank
   - DOMAIN-SUFFIX,za.group
+  - DOMAIN-SUFFIX,zaticdn.com
+  - DOMAIN-SUFFIX,zainvest.group
+  - DOMAIN-SUFFIX,zajourney.com
   - DOMAIN-SUFFIX,mox.com
   - DOMAIN-SUFFIX,welab.bank
   - DOMAIN-SUFFIX,welabbank.com
@@ -24,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,hkbea.com
   - DOMAIN-SUFFIX,dahsing.com
   - DOMAIN-SUFFIX,ocbc.com
+  - DOMAIN-SUFFIX,ocbc.com.hk
   - DOMAIN-SUFFIX,ocbcwhhk.com
   - DOMAIN-SUFFIX,icbcasia.com
   - DOMAIN-SUFFIX,asia.ccb.com
